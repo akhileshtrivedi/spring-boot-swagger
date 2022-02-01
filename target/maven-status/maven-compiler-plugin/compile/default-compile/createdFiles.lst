@@ -1,0 +1,5 @@
+com/springboot/swagger/service/AuthorService.class
+com/springboot/swagger/SwaggerConfig.class
+com/springboot/swagger/SpringbootSwaggerApplication.class
+com/springboot/swagger/model/Author.class
+com/springboot/swagger/controller/AuthorController.class
